@@ -1,0 +1,20 @@
+[
+	{
+		"id":1,
+		"key":"회원",
+		"long_value":"user",
+		"small_value":"user"
+	},
+	{
+		"id":2,
+		"key":"정보",
+		"long_value":"information",
+		"small_value":"info"
+	},
+	{
+		"id":3,
+		"key":"수정",
+		"long_value":"modified",
+		"small_value":"modi"
+	}
+]

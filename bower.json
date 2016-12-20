@@ -1,0 +1,16 @@
+{
+  "name": "Temp",
+  "version": "0.0.0",
+  "authors": [
+    "rerdos <temp@a.com>"
+  ],
+  "description": "Junior Front End Developer test for MyMiniFactory",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "angular-foundation": "~0.6.0",
+    "foundation": "~5.5.2",
+    "angular": "~1.3.3",
+    "ng-file-upload": "^12.2.13"
+  }
+}

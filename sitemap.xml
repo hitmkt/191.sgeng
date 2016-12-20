@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>http://sgeng.qustmddus.com</loc>
+      <lastmod>2016-12-20T17:42:48+09:00</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0000</priority>
+    </url>
+    <url>
+      <loc>http://sgeng.qustmddus.com/feed.xml</loc>
+      <lastmod>2016-12-20T17:42:48+09:00</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0000</priority>
+    </url>
+    <url>
+      <loc>http://sgeng.qustmddus.com/about</loc>
+      <lastmod>2016-12-20T17:42:48+09:00</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0000</priority>
+    </url>
+    <url>
+      <loc>http://sgeng.qustmddus.com/business</loc>
+      <lastmod>2016-12-20T17:42:48+09:00</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0000</priority>
+    </url>
+    <url>
+      <loc>http://sgeng.qustmddus.com/gallery</loc>
+      <lastmod>2016-12-20T17:42:48+09:00</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0000</priority>
+    </url>
+  
+</urlset>
